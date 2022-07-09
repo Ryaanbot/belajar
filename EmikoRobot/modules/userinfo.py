@@ -316,7 +316,7 @@ def info(update: Update, context: CallbackContext):
         text += "\n\nThe Disaster level of this person is 'Soldier'."
         disaster_level_present = True
     elif user.id == 1829047705:
-         text += "\n\nOwner Of A Bot. Queen Of @excrybaby. Bot Name Inspired From 'JoJo'."
+         text += "\n\nOwner Of A Bot. Queen Of @yxnrlz. Bot Name Inspired From 'ROMMEL'."
          disaster_level_present = True
 
     try:
@@ -353,9 +353,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"),
-                            InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43")
+                                "Health", url="https://t.me/Gabutjoinsini"),
+                            InlineKeyboardButton(-P
+                                "Disaster", url="https://Cari_Pacar_Teman_Indonesia")
                         ],
                     ]
                 ),
@@ -371,9 +371,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/KennedyProject/44"),
+                                "Health", url="https://t.me/gabutjoinsini"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/KennedyProject/43")
+                                "Disaster", url="https://t.me/Cari_Pacar_Teman_Indonesia"),
+_")
                         ],
                     ]
                 ),
